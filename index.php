@@ -189,6 +189,6 @@ $user->find(3);
 // $user->is_admin = false;
 // $user->is_active = true;
 
-// $user->save();
+$user->save();
 
 var_dump($user);
